@@ -1,4 +1,0 @@
-#[group]
-#[prefix = "/"]
-struct Meme;
-
